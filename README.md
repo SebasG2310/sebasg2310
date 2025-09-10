@@ -25,12 +25,6 @@ I love building real-world systems that blend hardware, software, and creativity
 
 ---
 
-## 📊 GitHub Activity  
-![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🎥 Creating Content  
 Sharing my projects and behind-the-scenes process:  
 - 📸 **Instagram:** [@yourusername](https://instagram.com/sebasgomezm_)  

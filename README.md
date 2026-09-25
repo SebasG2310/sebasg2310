@@ -27,8 +27,8 @@ I love building real-world systems that blend hardware, software, and creativity
 
 ## 🎥 Creating Content  
 Sharing my projects and behind-the-scenes process:  
-- 📸 **Instagram:** [@sebasgomezm_](https://instagram.com/sebasgomezm_)  
-- 🎬 **TikTok:** [@sebasgomezm_](https://tiktok.com/@sebasgomezm_)
+- 📸 **Instagram:** [@sebasgomezm_](https://instagram.com/sebasg2310)  
+- 🎬 **TikTok:** [@sebasgomezm_](https://tiktok.com/@sebasg2310)
 
 ---
 
